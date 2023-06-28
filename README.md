@@ -2,7 +2,7 @@
 
 # Welcome to My GitHub Profile! 👋
 
-[![GitHub Logo](https://github.com/zohaibasghar.png)](https://github.com/zohaibasghar)
+[![GitHub Logo]](https://github.com/zohaibasghar)
 
 Hey there! Thanks for stopping by my GitHub profile. Here you'll find an exciting collection of my projects and contributions. Get ready to dive into a world of creativity, innovation, and passion for coding!
 
@@ -11,7 +11,7 @@ Hey there! Thanks for stopping by my GitHub profile. Here you'll find an excitin
 I am a Full-stack web developer with a love for turning ideas into reality through code. With 3 years of experience, I have honed my skills in various technologies, including:
 
 - **Programming Languages**: Javascript, TypeScript, Node, CSS, HTML
-- **Frameworks and Libraries**: React, NextJS, TailwindCSS, React Native
+- **Frameworks and Libraries**: React, Redux, NextJS, Vite, Sass, TailwindCSS, React Native
 - **Databases**: MongoDB
 - **Tools and Technologies**: Git, GitLab, GitActions
 
