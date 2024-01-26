@@ -8,11 +8,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zohaibasghar&show_icons=true&locale=en" alt="zohaibasghar" /></p>
 
 
-- 🔭 I’m currently working on [Groomme](https://groomme.pk)
+- 🔭 I’m currently working on [Vibe-Design](https://vibe-design.intelligentsoftware.net/)
 
-- 🌱 I’m currently learning **Laravel, React Native**
+- 🌱 I’m currently learning ** React Native, Laravel**
 
-- 💬 Ask me about **React, Next, Node, MongoDB**
+- 💬 Ask me about **React, Next, Node, MongoDB, React Native**
 
 - 📫 How to reach me **zohaibmehar123456@gmail.com**
 
