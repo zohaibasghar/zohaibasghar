@@ -8,15 +8,15 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zohaibasghar&show_icons=true&locale=en" alt="zohaibasghar" /></p>
 
 
-- 🔭 I’m currently working on [Vibe-Design](https://vibe-design.intelligentsoftware.net/)
+- 🔭 I’m currently working on [Favoland](https://favoland.com/)
 
-- 🌱 I’m currently learning ** React Native, Laravel**
+- 🌱 I’m currently working on ** React Native **
 
-- 💬 Ask me about **React, Next, Node, MongoDB, React Native**
+- 💬 Ask me about **React, React Native**
 
 - 📫 How to reach me **zohaibmehar123456@gmail.com**
 
-- ⚡ Fun fact **I observe more than any normal person**
+- ⚡ Fun fact **I observe and listen**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
