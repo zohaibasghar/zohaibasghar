@@ -1,5 +1,5 @@
 Nobody will remember:
-- your salary
+- your efforts
 - how "busy you are"
 - how many hours you worked
 
